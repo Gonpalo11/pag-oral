@@ -1,0 +1,132 @@
+h1{
+     font-family: "Saira Stencil", sans-serif;
+    color: blue;
+}
+h2{
+     font-family: "Bebas Neue", sans-serif;
+    color: brown;
+}
+h3{
+     font-family: "Gothic A1", sans-serif;
+    color: aqua;
+}
+body{
+  background-color: brown;
+}
+ol{
+  font-family: "Gothic A1", sans-serif;
+  font-size: large;
+}
+.contenedor{
+
+  width: 380px;
+  height: 100px;
+  padding: 30px/*arriba*/ 320px/*derecha*/ 520px /*abajo*/490px/*izquierda*/;
+  margin-top: -400;
+ background-image: url(pizeria.jpeg);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 98px;
+}
+
+.contenedor2{
+  width: 380px;
+  height: 100px;
+  padding: 30px/*arriba*/ 320px/*derecha*/ 350px /*abajo*/490px/*izquierda*/;
+  background-image: url(menu.png);
+  align-items: center;
+  flex-direction: column;
+  gap: 98px;
+}
+.contenedor3{
+  width: 380px;
+  height: 100px;
+  padding: 30px/*arriba*/ 360px/*derecha*/ 350px /*abajo*/490px/*izquierda*/;
+  background-image: url(promoss.png);
+  align-items: center;
+  flex-direction: column;
+  gap: 98px;
+}.contenedor4{
+  width: 380px;
+  height: 100px;
+  padding: 30px/*arriba*/ 360px/*derecha*/ 380px /*abajo*/490px/*izquierda*/;
+  background-image: url(VAMOSMILEI.png) ;
+   display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 98px;
+}
+.contenedor6{
+width: 380px;
+  height: 100px;
+  padding: 30px/*arriba*/ 360px/*derecha*/ 350px /*abajo*/490px/*izquierda*/;
+  background-image: url(bebidas.png) ;
+   display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 98px;
+  background-color: blueviolet;
+}
+.contenedor7{
+width: 380px;
+  height: 100px;
+  padding: 30px/*arriba*/ 360/*derecha*/ 450px /*abajo*/490px/*izquierda*/;
+  background-image: url(postres.jpeg) ;
+   display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 98px;
+}
+.contenedor8{
+  width: 380px;
+  height: 100px;
+  padding: 30px/*arriba*/ 200/*derecha*/ 450px /*abajo*/300px/*izquierda*/;
+   display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 98px;
+  background-color: rgb(97, 17, 17);
+}
+.contenedor5{
+  width: 100%;
+  height: 510px; 
+  background-image: url(info.png);
+  background-size: contain; 
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 0; 
+   margin-top: 100px;
+}
+
+.loogo{
+   width: 380px;
+  height: 100px;
+  padding: 30px/*arriba*/ 360px/*derecha*/ 350px /*abajo*/490px/*izquierda*/;
+
+}
+.toda{
+   display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 98px;
+}
+.menu{
+   width: 10px;
+    height: 10px;
+   
+    padding: 20px/*arriba*/ 50px/*derecha*/ 120px /*abajo*/20px/*izquierda*/;
+  position:fixed;
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.navbar{
+  position:fixed;
+  
+}
+.menu a {
+  color: rgb(58, 129, 227); 
+  text-decoration: none; 
+}
